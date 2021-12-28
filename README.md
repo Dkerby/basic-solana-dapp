@@ -1,1 +1,2 @@
-# basic-solana-dapp
+# Basic Solana DApp
+The code in this repo is based on a project from Buildspace. It implements a simple Solana DApp that allows you to upload gifs to a GIF portal via React app using Web3js. The links to the uploaded GIFs are stored in a Solana program written in Rust.
